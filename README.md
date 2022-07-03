@@ -36,7 +36,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rameshmane7218&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepumandal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
   <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshmane7218&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
