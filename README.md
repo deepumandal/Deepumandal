@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
-- 📫 How to reach me **rameshmane7218@gmail.com**
+- 📫 How to reach me **deepak.studentid2030@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
