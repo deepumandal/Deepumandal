@@ -27,8 +27,8 @@
 <div >
 
   <p align="center">
-      <a href="https://github.com/rameshmane7218/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rameshmane7218's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshmane7218&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+      <a href="https://github.com/Deepumandal/Deepumandal/blob/main/README.md">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rameshmane7218's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepumandal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </a>
   </p>
  </div>
@@ -36,23 +36,23 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepumandal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
-  <a href="https://github.com/rameshmane7218/github-readme-stats"><img alt="rameshmane7218's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepumandal&layout=compact" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=Deepumandal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img alt="rameshmane7218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepumandal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepumandal&layout=compact" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepumandal&layout=compact" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/rameshmane7218/github-readme-activity-graph"><img alt="rameshmane7218's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deepumandal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=Deepumandal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="rameshmane7218's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deepumandal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/ramesh-mane-268a0014a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-mane-268a0014a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramesh7218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramesh7218/" height="30" width="40" /></a>
-<a href="https://medium.com/@rameshmane7218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rameshmane7218" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-mandal-32b885211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-mane-268a0014a" height="30" width="40" /></a>
+
+<a href="https://medium.com/@deepak.studentid2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rameshmane7218" height="30" width="40" /></a>
 
 </p>
