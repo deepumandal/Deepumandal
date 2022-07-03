@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://deepaksportfolio.herokuapp.com/](https://deepaksportfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://deepaksportfolio.herokuapp.com/](click to visit portfolio)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
