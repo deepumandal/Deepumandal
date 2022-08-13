@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **any awesome projects**
 
 - 👨‍💻 All of my projects are available at [https://deepaksportfolio.herokuapp.com/](click to visit portfolio)
+ - 👨‍ My Linkdin [https://www.linkedin.com/in/deepak-mandal-32b885211/](click here)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
