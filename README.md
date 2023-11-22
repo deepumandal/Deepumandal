@@ -4,7 +4,7 @@
 
 ### 🌟 About Me
 I'm a Web Developer with excellent design skills and robust logical abilities for web applications.
-Currently applying my expertise to both client-side and server-side technologies, I'm looking
+Currently applying my expertise to both **client-side** and **server-side** technologies, I'm looking
 forward to using tech in large-scale projects. I thrive on tackling logical challenges and consider
 them a fun part of the job. I also bring strong team collaboration skills and a goal-driven working
 approach with solid principles.
@@ -20,7 +20,7 @@ approach with solid principles.
 - **Tools:** Git, Postman, VS Code with a hot coffiee 🚀
 
 ### 🌱 Learning Journey
-I'm on a continuous quest to broaden my skill set and deepen my understanding of emerging technologies. Currently, my focus revolves around mastering TypeScript, a powerful superset of JavaScript that enhances code quality and scalability.
+I'm on a continuous quest to broaden my skill set and deepen my understanding of emerging technologies. Currently, my focus revolves around mastering **TypeScript**, a powerful superset of JavaScript that enhances code quality and scalability.
 
 ### 📈 GitHub Stats & lang.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepumandal&show_icons=true&theme=react&hide_title=true)
