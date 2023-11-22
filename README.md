@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Deepak Kumar Mandal!
 
+![Profile Views](https://komarev.com/ghpvc/?username=deepumandal&color=blueviolet)
+
 ### 🌟 About Me
 I'm a Web Developer with excellent design skills and robust logical abilities for web applications.
 Currently applying my expertise to both client-side and server-side technologies, I'm looking
