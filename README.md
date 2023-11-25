@@ -28,7 +28,7 @@ I'm on a continuous quest to broaden my skill set and deepen my understanding of
 
 ### 🛠️ Noteworthy Repositories
 - [React Webpack Configuration](https://github.com/deepumandal/react-webpack-configuration): A React Project, in which you'll discover how to build your own React app using webpack 5 as the compiler along with essential packages..
-<!--- [Project Name](Link): Utilizing React and Redux for [brief description].-->
+- [Netflix Clone](https://deepumandal.github.io/Netflix) :A **Webpack 5**-based React project that mirrors the features of a movie streaming website like **Netflix**. It offers multiple functionalities including authentication and support for **OpenAI ChatGPT** for enriched interactions.
 
 ### 🤣 Fun Element
  Here's a developer joke for you:
