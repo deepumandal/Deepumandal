@@ -15,7 +15,7 @@ approach with solid principles.
 - 📊 Exploring MongoDB for efficient data management.
 
 ### 🚀 Technologies & Skills
-- **Frontend:** React, Redux, HTML, CSS, JavaScript, NextJs
+- **Frontend:** React, Redux, HTML, CSS, JavaScript, Typescript, NextJs
 - **Backend:** Node.js, Express, MongoDB
 - **Tools:** Git, Postman, VS Code with a hot coffiee 🚀
 
