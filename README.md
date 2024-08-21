@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Deepak Kumar Mandal.
+## 👋 Hi there, I am Deepak Mandal.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepumandal&color=blueviolet)
 
