@@ -27,27 +27,28 @@ I'm on a continuous quest to broaden my skill set and deepen my understanding of
 <img alt="deepumandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepumandal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ### 🛠️ Noteworthy Repositories
-- [React Vite Template](https://github.com/deepumandal/vite-template): 🚀 Kickstart your React projects with a ⚡ Vite-powered template that streamlines workflow and accelerates development for everyone! 🔥..
-    - 🏗️ Pre-configured setup to reduce repetitive tasks.
-    - 📦 Minimal bundle size for faster load times.
-    - 🌟 Optimized for both beginners and experienced developers.
-    - 🧩 Easily customizable and extendable to fit your needs.
-    - 🔄 Instant updates with fast Hot Module Replacement (HMR).
-  
-- [TailwindPalettePro](https://github.com/deepumandal/TailwindPalettePro):🎨 Master color control in Tailwind CSS with this comprehensive guide:
-    - 🌈 Learn to use CSS variables for stunning UIs.
-    - 🌗 Achieve precise color management in both light and dark modes.
-    - 🛠️ Perfect for developers aiming to optimize projects with seamless color customization.
-    - 📘 Step-by-step examples and best practices included.
-    - 🎯 Boost your design workflow and create visually consistent experiences.
-  
-- [React Webpack Configuration](https://github.com/deepumandal/react-webpack-configuration): Hey developers! 🚀 Ready to level up your React skills? Dive into this sample repository and learn how to build your very own React app using Webpack 5 as the ultimate compiler! 📦
-    - 🎓 Master the essentials: Set up Webpack 5 from scratch and understand the magic behind React apps.
-    - ⚙️ Hands-on learning: Gain practical experience configuring and optimizing your app for top-notch performance.
-    - 💡 Unlock powerful techniques: Learn the must-know tricks for a fast, scalable, and maintainable React project.
-    - 🌟 Join the community: Give this repo a star if you learn something new and share it with fellow developers!
-  
-- [Netflix Clone](https://deepumandal.github.io/Netflix) :A **Webpack 5**-based React project that mirrors the features of a movie streaming website like **Netflix**. It offers multiple functionalities including authentication and support for **OpenAI ChatGPT** for enriched interactions.
+
+- [**React Vite Template**](https://github.com/deepumandal/vite-template): 🚀 **Kickstart your React projects** with a ⚡ **Vite-powered template** that streamlines workflow and accelerates development for everyone! 🔥  
+  - 🏗️ **Pre-configured setup** to reduce repetitive tasks.
+  - 📦 **Minimal bundle size** for faster load times.
+  - 🌟 **Optimized for both beginners and experienced developers**.
+  - 🧩 **Easily customizable and extendable** to fit your needs.
+  - 🔄 **Instant updates** with fast Hot Module Replacement (HMR).
+
+- [**TailwindPalettePro**](https://github.com/deepumandal/TailwindPalettePro): 🎨 **Master color control in Tailwind CSS** with this comprehensive guide:  
+  - 🌈 **Learn to use CSS variables** for stunning UIs.
+  - 🌗 **Achieve precise color management** in both light and dark modes.
+  - 🛠️ **Perfect for developers** aiming to optimize projects with seamless color customization.
+  - 📘 **Step-by-step examples and best practices** included.
+  - 🎯 **Boost your design workflow** and create visually consistent experiences.
+
+- [**React Webpack Configuration**](https://github.com/deepumandal/react-webpack-configuration): Hey developers! 🚀 **Ready to level up your React skills?** Dive into this sample repository and learn how to build your very own React app using **Webpack 5** as the ultimate compiler! 📦  
+  - 🎓 **Master the essentials**: Set up Webpack 5 from scratch and understand the magic behind React apps.
+  - ⚙️ **Hands-on learning**: Gain practical experience configuring and optimizing your app for top-notch performance.
+  - 💡 **Unlock powerful techniques**: Learn the must-know tricks for a fast, scalable, and maintainable React project.
+  - 🌟 **Join the community**: Give this repo a star if you learn something new and share it with fellow developers!
+
+- [**Netflix Clone**](https://deepumandal.github.io/Netflix): A **Webpack 5**-based React project that mirrors the features of a movie streaming website like **Netflix**. It offers multiple functionalities including **authentication** and support for **OpenAI ChatGPT** for enriched interactions.
 
 ### 🤣 Fun Element
  Here's a developer joke for you:
