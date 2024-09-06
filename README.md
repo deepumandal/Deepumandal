@@ -1,7 +1,7 @@
-## 👋 Hi there, I am Deepak Mandal.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hi+there%2C+I+am+Deepak+Mandal.;%F0%9F%92%BB+Web+Developer+with+strong+design+and+logical+skills.;%F0%9F%92%AA+Applying+expertise+in+client+and+server-side+technologies.;%F0%9F%9A%80+Passionate+about+large-scale+projects+and+logical+challenges.;%E2%9A%A1+Looking+to+collaborate+on+innovative+projects+and+drive+growth.)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepumandal&color=blueviolet)
-
 ### 🌟 About Me
 I'm a Web Developer with excellent design skills and robust logical abilities for web applications.
 Currently applying my expertise to both **client-side** and **server-side** technologies, I'm looking
