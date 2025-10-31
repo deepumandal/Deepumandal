@@ -60,7 +60,7 @@ I'm on a continuous quest to broaden my skill set and deepen my understanding of
 
 - LinkedIn: <a href="https://www.linkedin.com/in/deepak-mandal-32b885211/" target="_blank">Follow me on LinkedIn</a>
 - Twitter: <a href="https://x.com/Prime__23" target="_blank">Follow me on Twitter</a>
-- Personal Website: <a href="https://deepumandal.github.io" target="_blank">Portfolio</a>
+- Personal Website: <a href="http://workwithdeepak.org/" target="_blank">Portfolio</a>
 
 
 ### 📫 Contact Me
